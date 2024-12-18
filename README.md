@@ -1,4 +1,4 @@
-# 💳 **Banking System**
+# 💳 **EzyBank**
 
 A simple yet effective banking system built using **PHP** and **MySQL** that allows customers to deposit and withdraw money, track their transactions, and manage their account balance seamlessly. This system is designed for easy integration and can be a great starting point for building more complex financial systems.
 
